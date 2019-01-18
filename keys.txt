@@ -1,3 +1,0 @@
-Keystore Alias : Roma
-Keystore Password : Roma12345
-SHA1: C2:0B:6E:5F:20:F8:80:90:C7:9C:AB:75:76:4D:94:2B:9D:28:CD:9A
