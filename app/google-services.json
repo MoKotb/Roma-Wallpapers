@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "416812665330",
+    "firebase_url": "https://roma-wallpapers.firebaseio.com",
+    "project_id": "roma-wallpapers",
+    "storage_bucket": "roma-wallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416812665330:android:208c2b94fb6197cb",
+        "android_client_info": {
+          "package_name": "com.yomko.romawallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416812665330-sg60t16d7613qga2i48t3r2ij5fiqfme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yomko.romawallpapers",
+            "certificate_hash": "c20b6e5f20f88090c79cab75764d942b9d28cd9a"
+          }
+        },
+        {
+          "client_id": "416812665330-1pa5q9o8j2kspp6tp2cvf9d45hs1eekq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjzUwdDto9e1b7Y9vx9UxNWUsBC_Ov5OE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416812665330-1pa5q9o8j2kspp6tp2cvf9d45hs1eekq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
